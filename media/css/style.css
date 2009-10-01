@@ -20,8 +20,8 @@ Tags: Green, fixed width, three columns, widget-ready
 
 /*Begin Typography &Colors  */
 html,body{border:0;margin:0;padding:0}
-html{background:#3E4035 url('images/bg.jpg')}
-body{background:url('images/header_bg.jpg') repeat-x 0 0;color:#333;font-family:"Helvetica Neue",Arial,Helvetica,sans-serif;font-size:80%;text-align:center}
+html{background:#3E4035 url('media/images/bg.jpg')}
+body{background:url('media/images/header_bg.jpg') repeat-x 0 0;color:#333;font-family:"Helvetica Neue",Arial,Helvetica,sans-serif;font-size:80%;text-align:center}
 
 /* Links */
 a{color:#3D7283;text-decoration:none}
